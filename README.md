@@ -2,7 +2,7 @@
 **Team members:** Sarah Busby, Gita Sharma, Elyse Owen
 
 ## Data access and notes
-The data for this project was sourced through [Kaggle]('https://www.kaggle.com/datasets/uditjain13/death-dataset-2026/data'). The dataset containes simulated data from modeled global death trends for the first half of 2026 (January through July). It is intended to practice mortality analysis without touching sensitive real data.
+The data for this project was sourced through [Kaggle](https://www.kaggle.com/datasets/uditjain13/death-dataset-2026/data). The dataset containes simulated data from modeled global death trends for the first half of 2026 (January through July). It is intended to practice mortality analysis without touching sensitive real data.
 
 ## Analysis
 In our analysis, we explored three questions:  
